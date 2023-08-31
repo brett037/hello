@@ -16,5 +16,7 @@ int main(int argc, char **argv) {
   printf("My name is Brett Wiltgen!!!!!\n");
   printf("Physics and mathematics\n");
 
+  printf("My name is Alex Busch\n");
+
   return 0;
 }
